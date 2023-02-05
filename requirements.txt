@@ -1,0 +1,4 @@
+pandas~=1.5.2
+geopy~=2.3.0
+numpy~=1.23.5
+tensorflow~=2.11.0
