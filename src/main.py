@@ -161,7 +161,7 @@ if __name__ == '__main__':
     pd.set_option('display.width', 300)
     print("####################################")
     print("########## LEISURE RADAR ###########")
-    print("########## OTH REGENSBURG ##########")
+    print("####################################")
     print("####################################\n")
 
     running = True
